@@ -1,4 +1,4 @@
-package com.mesay.Blogging.service;
+package com.mesay.Blogging.service.serviceInterface;
 
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

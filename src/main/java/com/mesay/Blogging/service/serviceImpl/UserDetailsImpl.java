@@ -1,4 +1,4 @@
-package com.mesay.Blogging.service;
+package com.mesay.Blogging.service.serviceImpl;
 
 import java.util.Collection;
 import java.util.List;

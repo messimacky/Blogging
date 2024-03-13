@@ -1,7 +1,8 @@
-package com.mesay.Blogging.service;
+package com.mesay.Blogging.service.serviceImpl;
 
 import com.mesay.Blogging.entity.User;
 import com.mesay.Blogging.repository.UserRepository;
+import com.mesay.Blogging.service.serviceImpl.UserDetailsImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
