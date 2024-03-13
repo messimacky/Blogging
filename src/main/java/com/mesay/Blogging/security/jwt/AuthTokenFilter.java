@@ -2,7 +2,7 @@ package com.mesay.Blogging.security.jwt;
 
 import java.io.IOException;
 
-import com.mesay.Blogging.service.UserDetailsServiceImpl;
+import com.mesay.Blogging.service.serviceImpl.UserDetailsServiceImpl;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

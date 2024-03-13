@@ -3,7 +3,7 @@ package com.mesay.Blogging.security.jwt;
 import java.security.Key;
 import java.util.Date;
 
-import com.mesay.Blogging.service.UserDetailsImpl;
+import com.mesay.Blogging.service.serviceImpl.UserDetailsImpl;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
